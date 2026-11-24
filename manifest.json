@@ -1,0 +1,21 @@
+{
+  "name": "Thakafa Dz | ثقافة ديزاد",
+  "short_name": "ThakafaDZD",
+  "description": "The national digital platform of Thakafa DZD, celebrating Algerian culture, arts, and 69 wilayas.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#021E14",
+  "theme_color": "#D4AF37",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
